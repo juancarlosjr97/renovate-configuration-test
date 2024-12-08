@@ -3,6 +3,13 @@
 This changelog is auto generated using release-it.
 
 
+## [0.1.1](https://github.com/juancarlosjr97/renovate-configuration-test/compare/0.1.0...0.1.1) (2024-12-08)
+
+### Documentation
+
+* add badges for codecov and codacy ([ddcdd5b](https://github.com/juancarlosjr97/renovate-configuration-test/commit/ddcdd5b8cd57c3dc52eceb73e216f45b07b1c43b))
+* add badges for codecov and codacy ([acfbdbb](https://github.com/juancarlosjr97/renovate-configuration-test/commit/acfbdbbf17c4c9927171936d418a910a1131ed99))
+
 ## 0.1.0 (2024-12-08)
 
 ### Features
