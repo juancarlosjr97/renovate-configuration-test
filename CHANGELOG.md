@@ -3,6 +3,12 @@
 This changelog is auto generated using release-it.
 
 
+## [0.2.0](https://github.com/juancarlosjr97/renovate-configuration-test/compare/0.1.1...0.2.0) (2024-12-08)
+
+### Features
+
+* add release automation to the project ([c747290](https://github.com/juancarlosjr97/renovate-configuration-test/commit/c747290513b01801b2ead92121cd505164961a49))
+
 ## [0.1.1](https://github.com/juancarlosjr97/renovate-configuration-test/compare/0.1.0...0.1.1) (2024-12-08)
 
 ### Documentation
