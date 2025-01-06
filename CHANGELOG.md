@@ -3,6 +3,12 @@
 This changelog is auto generated using release-it.
 
 
+## [0.2.2](https://github.com/juancarlosjr97/renovate-configuration-test/compare/0.2.1...0.2.2) (2025-01-06)
+
+### Chores
+
+* **deps:** update all dependencies ([e0178e0](https://github.com/juancarlosjr97/renovate-configuration-test/commit/e0178e09e45e5efa3d1a6de0ea4c6660417e4c42))
+
 ## [0.2.1](https://github.com/juancarlosjr97/renovate-configuration-test/compare/0.2.0...0.2.1) (2024-12-08)
 
 ### Chores
